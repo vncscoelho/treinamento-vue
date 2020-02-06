@@ -1,0 +1,10 @@
+﻿## CONTROLE DE PESSOAS
+https://jsonplaceholder.typicode.com/users
+
+
+## LOJA VIRTUAL 
+http://www.mocky.io/v2/5e3c74eb300000233c214dca
+
+
+## LISTA DE TAREFAS
+https://jsonplaceholder.typicode.com/todos

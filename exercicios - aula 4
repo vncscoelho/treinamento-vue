@@ -1,3 +1,5 @@
+Obs: Não precisa criar um projeto Vue. Pode usar o Codepen ou qualquer outra coisa.
+
 1. Escrever uma função que receba uma STRING e retorne seu conteudo na ordem inversa.
  Ex: [1,2,3,4,5,6] => [6,5,4,3,2,1]
 

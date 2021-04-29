@@ -1,2 +1,2 @@
 # treinamento-vue
-Conteudo e projetos utilizados no Treinamento Vue.js na Piperun
+Treinamento Vue.js preparado por mim e ministrado em conjunto com colegas na empresa Piperun.
